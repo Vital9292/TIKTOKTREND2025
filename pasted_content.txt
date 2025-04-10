@@ -1,0 +1,21 @@
+Erstelle eine Webplattform, auf der TikTok-Creator wie ich:
+Einen TikTok-Account mit einer Fitness-Community haben
+Produkte aus verschiedenen Nischen (Fitness, Gesundheit, Beauty, Haushalt, Küche, Gadgets, Home Deko, Haustierbedarf) automatisch empfohlen bekommen
+Diese Produkte direkt im TikTok-Shop bewerben und verkaufen können
+Die Plattform soll:
+Virale Trend-Produkte auf TikTok erkennen und auslesen
+– z. B. über Views, Likes, Shares, Kommentare
+– Kategorien/Nischenfilter: Fitness, Beauty, Gesundheit, Haushalt, Küche, Gadgets, Home Deko, Haustiere
+Tägliche/Wöchentliche Produktempfehlungen geben
+– Mit Produktbild, Beschreibung, Link zum TikTok-Shop
+– Einschätzung zum Trendpotenzial (Low/Medium/High)
+– Empfohlene Video-Hook oder Content-Idee
+Optional: Eigene TikTok-Nische definierbar
+– Z. B. „Ich habe eine Fitness-Community“ → Zeige passende Fitness-Produkte zuerst
+Öffentlich zugänglich für alle Nutzer
+– Jeder Besucher kann sofort sehen, was heute viral ist
+– Später evtl. ein Login für Premium-Filter, Video-Skripte etc.
+Modernes, responsives UI
+– Clean, übersichtlich, mobil optimiert
+– Möglichkeit, Produkte zu speichern / mit Affiliate-Link zu verbinden
+Ziel: Ich habe einen TikTok-Fitness-Kanal, weiß aber nicht, was ich verkaufen soll. Diese Plattform soll mir jeden Tag passende Trend-Produkte zeigen, die ich direkt bewerben kann, ohne Werbebudget.
